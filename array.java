@@ -1,7 +1,8 @@
 
 
-class array(){
-    system.out.printIn();
-    int main(){
+public class array {
+    public static void main(String[] args) {
+    
+        System.out.println("Hello World\n");    
     }
 }
